@@ -1,0 +1,6 @@
+.project
+API/node_modules
+API/ui
+API/package-lock.json
+UI/node_modules
+UI/package-lock.json
